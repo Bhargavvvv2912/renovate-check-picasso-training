@@ -8,7 +8,7 @@ hydra-optuna-sweeper==1.1.0.dev2
 wandb==0.12.6
 pre-commit==2.15.0
 black==21.9b0
-isort==5.9.3
+isort==5.13.2
 flake8==4.0.1
 jupyterlab==3.2.1
 python-dotenv==0.19.1
